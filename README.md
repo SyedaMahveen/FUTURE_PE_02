@@ -3,36 +3,54 @@
 
 ## Task Name
 
-AI Content Marketing using UGC Ads
+## AI Content Marketing using UGC Ads
 
-## Product Chosen
 
-Red Carpet Event Management
+## Project Overview
+
+This project demonstrates the use of Prompt Engineering to generate high-converting User Generated Content (UGC) advertisements using Generative AI.
+
+The system creates complete marketing content packs including hooks, ad scripts, captions, CTAs, and platform-specific promotional content for brands and businesses.
 
 ## Objective
 
-To generate AI-powered UGC-style advertisement content for social media marketing using structured prompt engineering techniques.
+To design a reusable prompt framework capable of generating authentic and conversion-focused UGC advertisements for different industries.
+
+## Features
+
+* UGC Ad Script Generation
+* Scroll-Stopping Hooks
+* Problem-Solution Ad Framework
+* Conversion-Focused CTAs
+* Instagram Captions
+* Platform-Specific Content
+* Brand Voice Adaptation
 
 ## Tools Used
 
 * ChatGPT
+* Prompt Engineering
 * GitHub
 * Markdown
 
+## Skills Demonstrated
+
+* Prompt Engineering
+* AI Content Marketing
+* Copywriting
+* Consumer Psychology
+* Content Strategy
+* Digital Marketing
+
 ## Deliverables
 
-* Product Information
-* UGC Ad Scripts
-* Social Media Captions
-* CTA Variations
-* Prompt Documentation
-
-
+* Prompt Framework
+* Skincare Product UGC Ads
+* Fitness App UGC Ads
+* SaaS Product UGC Ads
 
 ## Author
 
 Mahveen Sultana
 
-## CIN
-
-FIT/JUN26/PE3205
+Prompt Engineering Intern – Future Interns
